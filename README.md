@@ -16,7 +16,7 @@ My primary goal is to become proficient in web development, app development, and
 If you share similar interests or have any exciting projects in mind, I would love to connect with you. You can find me on the following platforms:
 
 - GitHub: [github.com/Hesh-k](https://github.com/Hesh-k)
-- LinkedIn: [linkedin.com/in/Heshan-kodithuwakku]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/heshan-kodithuwakku/))
+- LinkedIn: [linkedin.com/in/Heshan-kodithuwakku](https://www.linkedin.com/in/heshan-kodithuwakku/)
 - Email: Heshkodithuwakku@gmail.com
 
 Feel free to reach out to me. Let's collaborate, learn, and build amazing things together!
