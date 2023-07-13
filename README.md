@@ -1,7 +1,7 @@
 # Hi there, I'm Heshan! 👋
 
 ## About Me
-I'm an enthusiastic software engineering undergraduate with a deep-rooted passion for electronics. From an early age, I've been fascinated by the world of electronics, and it has shaped my journey into the world of technology. I believe in the power of combining software and hardware to create innovative solutions.
+I'm an enthusiastic software engineering undergraduate with a deep-rooted passion for technology. From an early age, I've been fascinated by the world of electronics, and it has shaped my journey into the world of technology. I believe in the power of combining software and hardware to create innovative solutions.
 
 ## What I Love 👀
 - 🧲 Electronics
