@@ -18,6 +18,6 @@ If you share similar interests or have any exciting projects in mind, I would lo
 - GitHub: [github.com/Hesh-k](https://github.com/Hesh-k)
 - LinkedIn: [linkedin.com/in/Heshan-kodithuwakku](https://www.linkedin.com/in/heshan-kodithuwakku/)
 - Email: Heshkodithuwakku@gmail.com
-- WebSite: [HeshanK.me](https://www.heshank.me)
+- WebSite: [HeshanK](https://heshank.me/)
 
 Feel free to reach out to me. Let's collaborate, learn, and build amazing things together!
