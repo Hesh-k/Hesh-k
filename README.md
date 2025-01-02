@@ -9,7 +9,7 @@ I'm an enthusiastic software engineering undergraduate with a deep-rooted passio
 * 🌍  I'm based in Colombo , Sri lanka
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/heshan-kodithuwakku/)
 * ✉️  You can contact me at [Heshkodithuwakku@gmail.com](mailto:Heshkodithuwakku@gmail.com)
-* 🧠  I'm learning React
+* 🧠  Currnently learning about LLMs
 * 🤝  I'm open to collaborating on Electronics & Software related projects
 
 ### Skills
